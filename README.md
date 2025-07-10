@@ -23,7 +23,7 @@ Install the Deno Jupyter Kernel
 Use the following command to install the Deno kernel:
 
 ```sh
-deno jupyter --unstable --install
+deno jupyter --install
 ```
 This will add the Deno kernel to your Jupyter environment. You should see a confirmation message indicating successful installation.
 
